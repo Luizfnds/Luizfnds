@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/luizfnds">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:luizeduardofnds@gmail.com" style="margin-left: 100px">
+    <a href="mailto:luizeduardofnds@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-B53320?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
@@ -25,7 +25,8 @@
 ## 💻 Technologies and Numbers
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfnds&langs_count=3&theme=transparent&hide_border=true"/>
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=Luizfnds&theme=modern-    lilac2&hide_border=true&sideNums=DDDDDD&currStreakLabel=364BFF&sideLabels=364BFF&ring=364BFF&fire=0303DD&background=FFFFFF00"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=Luizfnds&theme=modern-    lilac2&hide_border=true&sideNums=BBB&currStreakLabel=364BFF&currStreakNum=BBB&dates=BBB&sideLabels=364BFF&ring=364BFF&fire=0303DD&background=FFFFFF00"/>
+  
   <div style="display: inline_block"><br>
     <img align="center" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
