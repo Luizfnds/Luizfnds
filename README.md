@@ -1,6 +1,6 @@
 <h1>Hi, i'm Luiz Eduardo 👋🏽</h1>
 
-<img align='right' src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
 
 👨🏽‍💻 Full-Stack developer<br>
 ☕ Coffee lover<br>
