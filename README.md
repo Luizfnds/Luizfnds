@@ -1,11 +1,25 @@
 <h1>Hi, i'm Luiz Eduardo 👋🏽</h1>
 
-<img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
+<div>
 
-👨🏽‍💻 Full-Stack developer<br>
-☕ Coffee lover<br>
-📚 Eternal student<br>
-👊🏽 Dedicated
+  <div>
+  👨🏽‍💻 Full-Stack developer<br>
+  ☕ Coffee lover<br>
+  📚 Eternal student<br>
+  👊🏽 Dedicated
+  </div>
+  
+  <div align="right" widht:>
+    <a href="https://linkedin.com/in/luizfnds">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:luizeduardofnds@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-B53320?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+  
+</div>
+
 
 
 ## 💻 Technologies and Numbers
@@ -23,15 +37,4 @@
     <img align="center" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" title="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   </div>
-</div>
-
-## 🔗 Links
-
-<div align="center">
-  <a href="https://linkedin.com/in/luizfnds">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:luizeduardofnds@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-B53320?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
