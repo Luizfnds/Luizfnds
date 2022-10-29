@@ -9,11 +9,11 @@
   👊🏽 Dedicated
   </div>
   
-  <div align="right" widht:>
+  <div align="right">
     <a href="https://linkedin.com/in/luizfnds">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:luizeduardofnds@gmail.com">
+    <a href="mailto:luizeduardofnds@gmail.com" style="margin-left: 100px">
       <img src="https://img.shields.io/badge/Gmail-B53320?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
