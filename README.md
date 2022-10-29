@@ -1,4 +1,11 @@
-## Linguagens e tecnologias
+<h1>Hi, i'm Luiz Eduardo 👋🏽</h1>
+
+<img align='right' src="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh/giphy.gif">
+
+👨🏽‍💻 Full-Stack developer<br>
+☕ Coffee lover<br>
+📚 Eternal student<br>
+👊🏽 Dedicated
 
 
 ## 💻 Technologies and Numbers
