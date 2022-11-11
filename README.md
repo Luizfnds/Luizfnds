@@ -3,18 +3,14 @@
 <div>
 
   <div>
-  👨🏽‍💻 Full-Stack developer<br>
+  👨🏽‍💻 Back-end developer<br>
   ☕ Coffee lover<br>
-  📚 Eternal student<br>
   👊🏽 Dedicated
   </div>
   
   <div align="right">
     <a href="https://linkedin.com/in/luizfnds">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:luizeduardofnds@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-B53320?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
   
@@ -32,10 +28,5 @@
     <img align="center" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" title="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" title="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   </div>
 </div>
