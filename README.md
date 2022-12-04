@@ -4,8 +4,6 @@
 
   <div>
   👨🏽‍💻 Back-end developer<br>
-  ☕ Coffee lover<br>
-  👊🏽 Dedicated
   </div>
   
   <div align="right">
