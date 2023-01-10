@@ -18,7 +18,7 @@
 
 ## 💻 Technologies and Numbers
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfnds&langs_count=3&theme=transparent&hide_border=false&border_color=5E5E5E37"/>
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfnds&langs_count=3&theme=transparent&hide_border=false&border_color=5E5E5E37"/> -->
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=Luizfnds&theme=modern-    lilac2&hide_border=false&sideNums=BBB&currStreakLabel=364BFF&currStreakNum=BBB&dates=BBB&sideLabels=364BFF&stroke=5E5E5E37&border=5E5E5E37&ring=364BFF&fire=0303DD&background=FFFFFF00"/>
   
   <div style="display: inline_block"><br>
