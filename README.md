@@ -3,7 +3,7 @@
 <div>
 
   <div>
-  👨🏽‍💻 Back-end developer<br>
+  👨🏽‍💻 Web developer<br>
   </div>
   
   <div align="right">
