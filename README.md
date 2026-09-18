@@ -1,33 +1,24 @@
-<h1>Hi, i'm Luiz Eduardo 👋🏽</h1>
+# Luiz Eduardo
 
-<div>
+Desenvolvedor back-end .NET. Construo microsserviços e a infra que os sustenta.
 
-  <div>
-  👨🏽‍💻 Web developer<br>
-  </div>
-  
-  <div align="right">
-    <a href="https://linkedin.com/in/luizfnds">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </div>
-  
-</div>
+### No que estou trabalhando
 
+**[exeauctions](https://github.com/exeauctions)** — plataforma de leilões online.
+Atuo em identity, BFF, dashboard e infra as code. 30+ repositórios, majoritariamente privados.
 
+Cursando **Pós-Tech em Arquitetura de Sistemas .NET** (FIAP).
 
-## 💻 Technologies and Numbers
-<div align="center">
-<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfnds&langs_count=3&theme=transparent&hide_border=false&border_color=5E5E5E37"/> -->
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=Luizfnds&theme=modern-    lilac2&hide_border=false&sideNums=BBB&currStreakLabel=364BFF&currStreakNum=BBB&dates=BBB&sideLabels=364BFF&stroke=5E5E5E37&border=5E5E5E37&ring=364BFF&fire=0303DD&background=FFFFFF00"/>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" title="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" title="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" title="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  </div>
-</div>
+### Projetos selecionados
+
+- **[fiap-cloud-games](https://github.com/Luizfnds/fiap-cloud-games)** — API de gestão de
+  usuários e biblioteca de jogos. Tech Challenge da Pós-Tech FIAP. `C# · .NET`
+- **[conexao-solidaria](https://github.com/Luizfnds/conexao-solidaria)** — DESCREVER EM UMA LINHA `C#`
+
+### Stack
+
+`C#` `.NET` `Angular` `PostgreSQL` `Docker`
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/SEU-USUARIO)
