@@ -1,5 +1,3 @@
-# Luiz Eduardo
-
 Back-end .NET. Construo APIs e microsserviços event-driven — mensageria, autenticação
 e observabilidade — e cuido do deploy em containers e cloud. Também desenvolvo mobile
 em Flutter.
