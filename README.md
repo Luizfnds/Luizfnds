@@ -1,20 +1,22 @@
 # Luiz Eduardo
 
-Back-end .NET. Construo APIs e microsserviços — autenticação, comunicação entre
-serviços e a infra que coloca isso em produção. Também desenvolvo mobile em Flutter.
+Back-end .NET. Construo APIs e microsserviços event-driven — mensageria, autenticação
+e observabilidade — e cuido do deploy em containers e cloud. Também desenvolvo mobile
+em Flutter.
 
 ### Stack
 
-- **Back-end** — `C#` `.NET` `SQL Server`
+- **Back-end** — `C#` `.NET 8` `Clean Architecture` `RabbitMQ` `JWT`
+- **Dados** — `SQL Server` `MongoDB` `Redis` `Elasticsearch`
+- **Infra & Cloud** — `Docker` `Kubernetes (EKS)` `AWS` `GitHub Actions` `Prometheus` `Grafana`
 - **Mobile** — `Flutter`
-- **Infra & Cloud** — `Docker` `Kubernetes` `Terraform` `CI/CD` `AZURE OU AWS`
 
 ### Demonstrações técnicas
 
-- **[fiap-cloud-games](https://github.com/Luizfnds/fiap-cloud-games)** — API REST de gestão
-  de usuários e biblioteca de jogos. O QUE ELA DEMONSTRA TECNICAMENTE `C# · .NET`
-- **[conexao-solidaria](https://github.com/Luizfnds/conexao-solidaria)** — QUAL PROBLEMA
-  RESOLVE + O QUE DEMONSTRA `C#`
+- **[fiap-cloud-games](https://github.com/Luizfnds/fiap-cloud-games)** — 4 APIs
+  event-driven, Lambda, Cognito e EKS. Demonstra arquitetura distribuída ponta a ponta.
+- **[conexao-solidaria](https://github.com/Luizfnds/conexao-solidaria)** — API + worker
+  assíncrono com RBAC e stack de observabilidade. Demonstra Clean Architecture aplicada.
 
 ---
 
