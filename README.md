@@ -5,9 +5,9 @@ serviços e a infra que coloca isso em produção. Também desenvolvo mobile em 
 
 ### Stack
 
-**Back-end** `C#` `.NET` `SQL Server`
-**Mobile** `Flutter`
-**Infra & Cloud** `Docker` `Kubernetes` `Terraform` `CI/CD` `AZURE OU AWS`
+- **Back-end** — `C#` `.NET` `SQL Server`
+- **Mobile** — `Flutter`
+- **Infra & Cloud** — `Docker` `Kubernetes` `Terraform` `CI/CD` `AZURE OU AWS`
 
 ### Demonstrações técnicas
 
