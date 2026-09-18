@@ -19,14 +19,14 @@ com DDD, CQRS com MediatR, EF Core e autenticação JWT via AWS Cognito.
 
 **[TC-FIAP-Grupo-11](https://github.com/TC-FIAP-Grupo-11)** — O mesmo produto decomposto
 em 4 microsserviços que conversam por eventos no RabbitMQ, com pagamento e notificação em
-AWS Lambda, persistência poliglota (SQL  MongoDB) e deploy
+AWS Lambda, persistência poliglota (SQL Server, Redis, Elasticsearch e MongoDB) e deploy
 no EKS com CI/CD completo.
 
-**[conexao-solidaria](https://github.com* — Campanhas de
+**[conexao-solidaria](https://github.com/Luizfnds/conexao-solidaria)** — Campanhas de
 doação para ONGs, feito do zero já distribuído. A doação responde `202 Accepted` na hora
-e um Worker consome a fila e consolida o não derruba o
+e um Worker consome a fila e consolida o valor, então o pico de requisições não derruba o
 processamento. JWT com RBAC, Kubernetes com Prometheus e Grafana.
 
 ---
 
-📫 [linkedin.com/in/luizfnds](https://li
+📫 [linkedin.com/in/luizfnds](https://linkedin.com/in/luizfnds)
