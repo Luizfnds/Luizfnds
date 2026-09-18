@@ -9,7 +9,9 @@ em Flutter.
 - **Infra & Cloud** — `Docker` `Kubernetes (EKS)` `AWS Lambda` `Cognito` `GitHub Actions` `Prometheus` `Grafana`
 - **Mobile** — `Flutter`
 
-## FIAP Cloud Games
+## Projetos
+
+### FIAP Cloud Games
 
 Plataforma de venda de jogos digitais e projeto central da pós em Arquitetura de Sistemas
 .NET, evoluída ao longo de quatro fases — do MVP à operação cloud-native. Um repositório
@@ -26,7 +28,7 @@ cada, comunicando por eventos no RabbitMQ. Pagamento e notificação em AWS Lamb
 API Gateway, deploy em EKS, CI/CD no GitHub Actions e persistência poliglota — Redis para
 cache, Elasticsearch para busca e MongoDB para avaliações.
 
-## Conexão Solidária
+### Conexão Solidária
 
 **[conexao-solidaria](https://github.com/Luizfnds/conexao-solidaria)** — *hackathon final*<br>
 Plataforma de campanhas de doação para uma ONG, feita do zero e sozinho. A API não grava a
